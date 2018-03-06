@@ -1,6 +1,6 @@
 # Open Datasets: Urban Poverty
 
-The following is a collection of public datasets relating to poverty. They are intended for use  by data scientists, policymakers, community stakeholders to investigate and address poverty-related issues within their respective communities.
+The following is a collection of public datasets relating to urban poverty. They are intended for use  by data scientists, policymakers, community stakeholders to investigate and address poverty-related issues within their respective communities.
 
 A variety of socio-economic factors may contribute to urban poverty, including but not limited to: cost of living, housing and shelter, education, public health, food insecurity, and support services. 
 
