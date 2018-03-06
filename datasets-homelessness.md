@@ -63,13 +63,13 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
   * [Assets Maintained by the Recreation and Parks Department](http://bit.ly/2FbGeLc)
 
 
-  * **Public Health**
-    * [Health Care Facilities](http://bit.ly/2H134FT)
-    * [Pit Stop Locations](http://bit.ly/2FkAoug)
+* **Public Health**
+  * [Health Care Facilities](http://bit.ly/2H134FT)
+  * [Pit Stop Locations](http://bit.ly/2FkAoug)
 
 
-  * **N11 Services**
-    * [311 Cases](http://bit.ly/2Fk5PFa)
-    * [311 Information Requests by Month](http://bit.ly/2H1y5Kb)
-    * [311 Call Metrics by Month](http://bit.ly/2I3iI5c)
-    * [311 Cases by Channel](http://bit.ly/2F9QCav)
+* **N11 Services**
+  * [311 Cases](http://bit.ly/2Fk5PFa)
+  * [311 Information Requests by Month](http://bit.ly/2H1y5Kb)
+  * [311 Call Metrics by Month](http://bit.ly/2I3iI5c)
+  * [311 Cases by Channel](http://bit.ly/2F9QCav)
