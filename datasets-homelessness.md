@@ -2,15 +2,17 @@
 
 The following is a collection of public datasets relating to urban poverty. They are intended for use  by data scientists, policymakers, community stakeholders to investigate and address poverty-related issues within their respective communities.
 
-A variety of socio-economic factors may contribute to urban poverty, including but not limited to: cost of living, housing and shelter, education, public health, food insecurity, and support services. 
+A variety of socio-economic factors may contribute to urban poverty, including but not limited to: cost of living, housing and shelter, education, public health, food insecurity, and support services.
 
 This repository is maintained by the Core Team at [DataKind San Francisco](http://www.datakind.org/chapters/datakind-sf). See [here]() for more information on how to contribute.
 
 ## General Resources
 
-* **[U.S. Census Bureau, American Community Survey](http://bit.ly/1M2wMJQ)** - _Logical starting place for pretty much all demographics-related analyses in the U.S._
+* **[American Community Survey](http://bit.ly/1M2wMJQ)** - _Data collected by U.S. Census Bureau. Logical starting place for pretty much all demographics-related analyses in the U.S._
 
 * **[PolicyMap](http://bit.ly/2FjI2VN)** - _List of free (and paid) datasets relating to demographics, real estate, health, and jobs across the U.S._
+
+* **[Healthy City](http://www.healthycity.org/about/data/)** - _List of public datasets relating to health and equity in California._
 
 
 ## Topic-Specific Resources
@@ -32,13 +34,16 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 #### Health
 * [American Community Survey - Health](http://bit.ly/2F96NAR)
+* [Health Resources & Services Administration - Health Center Service Delivery Sites](http://bit.ly/2FC7B4U)
+* [Health Resources & Services Administration - Primary Health Care](http://bit.ly/2oPtcx6)
+* [Health Resources & Services Administration - Shortage Areas](http://bit.ly/2jwIJBl)
 
 #### Housing and Shelter
 * [American Community Survey - Housing](http://bit.ly/2F9j8sF)
 * [Home Mortgage Disclosure Act](http://bit.ly/2oM5GQA) - _Public loan data reported by lending institutions._
 
 #### Weather
-* [NOAA Climate Data Online](http://bit.ly/2tcqLZX)
+* [NOAA - Climate Data Online](http://bit.ly/2tcqLZX)
 
 ## Community-Specific Datasets
 
@@ -73,3 +78,17 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
   * [311 Information Requests by Month](http://bit.ly/2H1y5Kb)
   * [311 Call Metrics by Month](http://bit.ly/2I3iI5c)
   * [311 Cases by Channel](http://bit.ly/2F9QCav)
+
+#### San Jose, CA
+_San Jose's open data resources are hosted on its [city government website](https://data.sanjoseca.gov//home)._
+
+* **Housing and Shelter**
+  * [Affordable Housing - Family Housing Units](http://bit.ly/2D9ncTZ)
+  * [Affordable Housing - Senior Housing Units](http://bit.ly/2oRed5s)
+  * [Median Home Prices](http://bit.ly/2D9bdGh)
+  * [Monthly Apartment Rents](http://bit.ly/2Fi2zLr)
+  * [Quarterly Average Apartment Rent](http://bit.ly/2FpUKPQ)
+
+
+* **N11 Services**
+  * [911 Call Data, Jan-Jun 2015](http://bit.ly/2G5D6BV), [Jul-Dec 2015](http://bit.ly/2G32pVa)
