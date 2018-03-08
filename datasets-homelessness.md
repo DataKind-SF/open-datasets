@@ -6,6 +6,13 @@ A variety of socio-economic factors may contribute to urban poverty, including b
 
 This repository is maintained by the Core Team at [DataKind San Francisco](http://www.datakind.org/chapters/datakind-sf). See [here]() for more information on how to contribute.
 
+## Contents
+* [General Resources](#general-resources)
+* [Topic-Specific Resources](#topic-specific-resources)
+* [Community-Specific Datasets](#community-specific-datasets)
+  * [San Francisco CA](#san-francisco-ca)
+  * [San Jose CA](#san-jose-ca)
+
 ## General Resources
 
 * **[American Community Survey](http://bit.ly/1M2wMJQ)** - _Data collected by U.S. Census Bureau. Logical starting place for pretty much all demographics-related analyses in the U.S._
@@ -47,7 +54,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 ## Community-Specific Datasets
 
-#### San Francisco, CA
+#### San Francisco CA
 _San Francisco's official platform for disseminating open data is [DataSF](https://datasf.org/opendata/). Homelessness-related issues are managed by the [Department of Homelessness and Supportive Housing](http://hsh.sfgov.org/)._
 
 * **Agencies and Programs**
@@ -79,7 +86,7 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
   * [311 Call Metrics by Month](http://bit.ly/2I3iI5c)
   * [311 Cases by Channel](http://bit.ly/2F9QCav)
 
-#### San Jose, CA
+#### San Jose CA
 _San Jose's open data resources are hosted on its [city government website](https://data.sanjoseca.gov//home)._
 
 * **Housing and Shelter**
