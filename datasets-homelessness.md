@@ -12,6 +12,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 * [Community-Specific Datasets](#community-specific-datasets)
   * [San Francisco CA](#san-francisco-ca)
   * [San Jose CA](#san-jose-ca)
+  * [San Mateo County CA](#san-mateo-county-ca)
 
 ## General Resources
 
@@ -69,7 +70,7 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
   * [90 Day Emergency Shelter Wait List](http://bit.ly/2FORuhM)
   * [Affordable Housing Pipeline](http://bit.ly/2oFt2rR)
   * [Regression data for Inclusionary Housing Simulation Model](http://bit.ly/2Fcyfld)
-  * [Housing Inventory Data](http://bit.ly/2oNDay7), [2013](http://bit.ly/2oKExyv), [2012](http://bit.ly/2CWNybM), [2011](http://bit.ly/2oNKVUy)
+  * [Housing Inventory Data 2014](http://bit.ly/2oNDay7), [2013](http://bit.ly/2oKExyv), [2012](http://bit.ly/2CWNybM), [2011](http://bit.ly/2oNKVUy)
 
 
 * **Parks**
@@ -102,3 +103,14 @@ _San Jose's open data resources are hosted on its [city government website](http
 
 * **N11 Services**
   * [911 Call Data, Jan-Jun 2015](http://bit.ly/2G5D6BV), [Jul-Dec 2015](http://bit.ly/2G32pVa)
+
+#### San Mateo County CA
+_San Mateo County's official platform for disseminating open data is [Open San Mateo County](https://data.smcgov.org/)_
+
+* **Housing and Shelter**
+  * [Homeless Census 2013 - 2014](http://bit.ly/2DfzI4F), [2011-2012](http://bit.ly/2IcZuKt), [2007-2010](http://bit.ly/2FCoHzz)
+  * [Homeless Census Counts from Shelters](http://bit.ly/2FBtnWr)
+  * [Homeless Census Counts from Streets](http://bit.ly/2tzcre8)
+  * [Homeless Census by Census Tract](http://bit.ly/2Gbwhii)
+  * [Homeless Census Results by City](http://bit.ly/2FHPxpK)
+  * [Homeless Census Sheltered and Unsheltered](http://bit.ly/2FHMi1A)
