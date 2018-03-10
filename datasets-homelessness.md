@@ -39,6 +39,9 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 * [Bureau of Labor Statistics - State and Metro Area Employment, Hours, & Earnings](http://bit.ly/2HZZGfZ)
 * [U.S. Census Bureau - Income & Poverty](http://bit.ly/2z01e41)
 
+#### Food Insecurity
+* [SF-Marin Food Bank - CalFresh Dual Enrollment with Medi-Cal](http://tabsoft.co/2HiQoKT) - _Enrollment in California's implementation of federal SNAP program among Medi-Cal beneficiaries, by county._
+
 #### Health
 * [American Community Survey - Health](http://bit.ly/2F96NAR)
 * [Health Resources & Services Administration - Health Center Service Delivery Sites](http://bit.ly/2FC7B4U)
