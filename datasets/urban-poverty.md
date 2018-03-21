@@ -107,7 +107,8 @@ _San Jose's open data resources are hosted on its [city government website](http
 #### San Mateo County CA
 _San Mateo County's official platform for disseminating open data is [Open San Mateo County](https://data.smcgov.org/)_
 
-* **Housing and Shelter**
+* **Housing and Shelter** 
+
   * [Homeless Census 2013 - 2014](http://bit.ly/2DfzI4F), [2011-2012](http://bit.ly/2IcZuKt), [2007-2010](http://bit.ly/2FCoHzz)
   * [Homeless Census Counts from Shelters](http://bit.ly/2FBtnWr)
   * [Homeless Census Counts from Streets](http://bit.ly/2tzcre8)
