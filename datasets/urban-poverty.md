@@ -1,10 +1,10 @@
-# Open Datasets: Urban Poverty
+# Open Datasets for Good: Urban Poverty
 
 The following is a collection of public datasets relating to urban poverty. They are intended for use  by data scientists, policymakers, community stakeholders to investigate and address poverty-related issues within their respective communities.
 
 A variety of socio-economic factors may contribute to urban poverty, including but not limited to: cost of living, housing and shelter, education, public health, food insecurity, and support services.
 
-This repository is maintained by the Core Team at [DataKind San Francisco](http://www.datakind.org/chapters/datakind-sf). See [here]() for more information on how to contribute.
+This repository is maintained by the Core Team at [DataKind San Francisco](http://www.datakind.org/chapters/datakind-sf). Please see the [CONTRIBUTING](CONTRIBUTING.md) page if you would like to open a Pull Request.
 
 ## Contents
 * [General Resources](#general-resources)
