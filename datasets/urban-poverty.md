@@ -70,6 +70,7 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
 
 * **Agencies and Programs**
   * [Community Development Projects by Agency, Program Area, and Funding Source](http://bit.ly/2tdR5mv)
+  * [Community Development Public Service Program Activities by Neighborhood](https://bit.ly/2Ji2buL)
   * [Community Development Public Service Program Activities by Supervisor District](http://bit.ly/2CWqTwh)
 
 
