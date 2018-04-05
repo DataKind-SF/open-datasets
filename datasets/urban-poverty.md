@@ -19,6 +19,8 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 * **[American Community Survey](http://bit.ly/1M2wMJQ)** - _Data collected by U.S. Census Bureau. Logical starting place for pretty much all demographics-related analyses in the U.S._
 
+* **[U.S. Department of Housing and Urban Development](https://bit.ly/2EiEej1)** - _GIS data collected by HUD relating to poverty and housing across the U.S._
+
 * **[PolicyMap](http://bit.ly/2FjI2VN)** - _List of free (and paid) datasets relating to demographics, real estate, health, and jobs across the U.S._
 
 * **[Healthy City](http://www.healthycity.org/about/data/)** - _List of public datasets relating to health and equity in California._
@@ -28,6 +30,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 #### Demographics and Population
 * [DiversityData.org](http://bit.ly/2oDWSNs) - _Data from various sources, maintained by Brandeis University._
+* [U.S. Dept of Housing and Urban Development](https://bit.ly/2H5rCyN) - _Metro areas evaluated against ratial/ethic concentration threshold and poverty test._
 
 #### Education
 * [National Center for Education Statistics](http://bit.ly/2l1J4Yl) - _Links to other resources relating to education._
@@ -40,6 +43,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 * [Bureau of Economic Analysis - Real Personal Income for States and Metropolitan Areas](http://bit.ly/2h4riE5)
 * [Bureau of Labor Statistics - State and Metro Area Employment, Hours, & Earnings](http://bit.ly/2HZZGfZ)
 * [U.S. Census Bureau - Income & Poverty](http://bit.ly/2z01e41)
+* [U.S. Dept of Housing and Urban Development - Labor Market Engagement Index](https://bit.ly/2IrDTgq) - _Relative intensity of labor market engagement in neighborhood._
 
 #### Food Insecurity
 * [SF-Marin Food Bank - CalFresh Dual Enrollment with Medi-Cal](http://tabsoft.co/2HiQoKT) - _Enrollment in California's implementation of federal SNAP program among Medi-Cal beneficiaries, by county._
@@ -52,6 +56,9 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 #### Housing and Shelter
 * [American Community Survey - Housing](http://bit.ly/2F9j8sF)
+* [U.S. Dept of Housing and Urban Development - Fair Market Rents](https://bit.ly/2GzyhQX) - _Estimated amount (base rent + essential utilities) property in given area typically rents for._
+* [U.S. Dept of Housing and Urban Development - Location Affordabiity Index v1.0](https://bit.ly/2Gzo470), [v2.0](https://bit.ly/2GA8LyM) - _Percentage family's income dedicated to housing and transportation in given location._
+* [U.S. Dept of Housing and Urban Development - Public Housing Buildings](https://bit.ly/2uS2Z6z) - _Location and resident characteristics of public housing development buildings._
 * [Home Mortgage Disclosure Act](http://bit.ly/2oM5GQA) - _Public loan data reported by lending institutions._
 
 #### Weather
@@ -84,6 +91,7 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
 
 * **Agencies and Programs**
   * [Community Development Projects by Agency, Program Area, and Funding Source](http://bit.ly/2tdR5mv)
+  * [Community Development Public Service Program Activities by Neighborhood](https://bit.ly/2Ji2buL)
   * [Community Development Public Service Program Activities by Supervisor District](http://bit.ly/2CWqTwh)
 
 
