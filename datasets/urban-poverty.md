@@ -30,7 +30,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 #### Demographics and Population
 * [DiversityData.org](http://bit.ly/2oDWSNs) - _Data from various sources, maintained by Brandeis University._
-* [U.S. Dept of Housing and Urban Development](https://bit.ly/2H5rCyN) - _Metro areas evaluated against ratial/ethic concentration threshold and poverty test._
+* [U.S. Dept of Housing and Urban Development - Racially/Ethnically Concentrated Areas of Poverty ](https://bit.ly/2H5rCyN)
 
 #### Education
 * [National Center for Education Statistics](http://bit.ly/2l1J4Yl) - _Links to other resources relating to education._
@@ -43,7 +43,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 * [Bureau of Economic Analysis - Real Personal Income for States and Metropolitan Areas](http://bit.ly/2h4riE5)
 * [Bureau of Labor Statistics - State and Metro Area Employment, Hours, & Earnings](http://bit.ly/2HZZGfZ)
 * [U.S. Census Bureau - Income & Poverty](http://bit.ly/2z01e41)
-* [U.S. Dept of Housing and Urban Development - Labor Market Engagement Index](https://bit.ly/2IrDTgq) - _Relative intensity of labor market engagement in neighborhood._
+* [U.S. Dept of Housing and Urban Development - Labor Market Engagement Index](https://bit.ly/2IrDTgq)
 
 #### Food Insecurity
 * [SF-Marin Food Bank - CalFresh Dual Enrollment with Medi-Cal](http://tabsoft.co/2HiQoKT) - _Enrollment in California's implementation of federal SNAP program among Medi-Cal beneficiaries, by county._
@@ -56,9 +56,9 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 #### Housing and Shelter
 * [American Community Survey - Housing](http://bit.ly/2F9j8sF)
-* [U.S. Dept of Housing and Urban Development - Fair Market Rents](https://bit.ly/2GzyhQX) - _Estimated amount (base rent + essential utilities) property in given area typically rents for._
-* [U.S. Dept of Housing and Urban Development - Location Affordabiity Index v1.0](https://bit.ly/2Gzo470), [v2.0](https://bit.ly/2GA8LyM) - _Percentage family's income dedicated to housing and transportation in given location._
-* [U.S. Dept of Housing and Urban Development - Public Housing Buildings](https://bit.ly/2uS2Z6z) - _Location and resident characteristics of public housing development buildings._
+* [U.S. Dept of Housing and Urban Development - Fair Market Rents](https://bit.ly/2GzyhQX)
+* [U.S. Dept of Housing and Urban Development - Location Affordabiity Index v1.0](https://bit.ly/2Gzo470), [v2.0](https://bit.ly/2GA8LyM)
+* [U.S. Dept of Housing and Urban Development - Public Housing Buildings](https://bit.ly/2uS2Z6z)
 * [Home Mortgage Disclosure Act](http://bit.ly/2oM5GQA) - _Public loan data reported by lending institutions._
 
 #### Weather
