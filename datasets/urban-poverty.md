@@ -10,6 +10,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 * [General Resources](#general-resources)
 * [Topic-Specific Resources](#topic-specific-resources)
 * [Community-Specific Datasets](#community-specific-datasets)
+  * [Los Angeles CA](#los-angeles-ca)
   * [San Francisco CA](#san-francisco-ca)
   * [San Jose CA](#san-jose-ca)
   * [San Mateo County CA](#san-mateo-county-ca)
@@ -57,6 +58,26 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 * [NOAA - Climate Data Online](http://bit.ly/2tcqLZX)
 
 ## Community-Specific Datasets
+
+#### Los Angeles CA
+_The City of Los Angeles's public datasets are available at [Los Angeles Open Data](https://data.lacity.org/)._
+
+* **Agencies and Programs**
+  * [EWDD - Worksource Center Program Performance Outcomes](https://bit.ly/2GyAUqb)
+  * [Housing & Community Investment Service Locations](https://bit.ly/2GysPSh)
+
+
+* **Housing and Shelter**
+  * [Affordable Housing Monitoring Data](https://bit.ly/2H9dogk)
+  * [All HACLA Properties](http://bit.ly/2pp2iML)
+  * [HACLA Resident Ethnicity Demographics - Large Public Housing Sites](http://bit.ly/2DItH0w)
+  * [HCIDlA Affordable Housing Projects Catalog and Listing (2003 to Present)](http://bit.ly/2G7MxTR)
+  * [Possible City-Owned Sites in CD8 for Homeless Efforts](https://bit.ly/2JhQDHI)
+  * [Total and Affordable Housing Units](http://bit.ly/2HSWhid)
+
+
+* **N11 Services**
+  * [311 Call Center Tracking Data (Archived)](http://bit.ly/2G5skyf)
 
 #### San Francisco CA
 _San Francisco's official platform for disseminating open data is [DataSF](https://datasf.org/opendata/). Homelessness-related issues are managed by the [Department of Homelessness and Supportive Housing](http://hsh.sfgov.org/)._
@@ -107,7 +128,7 @@ _San Jose's open data resources are hosted on its [city government website](http
 #### San Mateo County CA
 _San Mateo County's official platform for disseminating open data is [Open San Mateo County](https://data.smcgov.org/)_
 
-* **Housing and Shelter** 
+* **Housing and Shelter**
 
   * [Homeless Census 2013 - 2014](http://bit.ly/2DfzI4F), [2011-2012](http://bit.ly/2IcZuKt), [2007-2010](http://bit.ly/2FCoHzz)
   * [Homeless Census Counts from Shelters](http://bit.ly/2FBtnWr)
