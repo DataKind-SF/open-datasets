@@ -19,11 +19,14 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 * **[American Community Survey](http://bit.ly/1M2wMJQ)** - _Data collected by U.S. Census Bureau. Logical starting place for pretty much all demographics-related analyses in the U.S._
 
-* **[U.S. Department of Housing and Urban Development](https://bit.ly/2EiEej1)** - _GIS data collected by HUD relating to poverty and housing across the U.S._
+* **[Data USA](https://datausa.io/)** - _Aggregator of U.S. government data relating to economic geography. Affiliated with Deloitte, Macro Connections, and Datawheel._
+
+* **[Healthy City](http://www.healthycity.org/about/data/)** - _List of public datasets relating to health and equity in California._
 
 * **[PolicyMap](http://bit.ly/2FjI2VN)** - _List of free (and paid) datasets relating to demographics, real estate, health, and jobs across the U.S._
 
-* **[Healthy City](http://www.healthycity.org/about/data/)** - _List of public datasets relating to health and equity in California._
+* **[U.S. Department of Housing and Urban Development](https://bit.ly/2EiEej1)** - _GIS data collected by HUD relating to poverty and housing across the U.S._
+
 
 
 ## Topic-Specific Resources
