@@ -25,6 +25,8 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 * **[PolicyMap](http://bit.ly/2FjI2VN)** - _List of free (and paid) datasets relating to demographics, real estate, health, and jobs across the U.S._
 
+* **[U.S. Census Bureau - Public Use Microdata Sample (PUMS)](https://bit.ly/2fPgugd)** - _Samples of actual responses to the American Community Survey. (Note: Datasets are relatively large.)_
+
 * **[U.S. Department of Housing and Urban Development](https://bit.ly/2EiEej1)** - _GIS data collected by HUD relating to poverty and housing across the U.S._
 
 
