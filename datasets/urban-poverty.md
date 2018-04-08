@@ -25,6 +25,8 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 * **[PolicyMap](http://bit.ly/2FjI2VN)** - _List of free (and paid) datasets relating to demographics, real estate, health, and jobs across the U.S._
 
+* **[State of California - Labor Market Information by County](https://bit.ly/2EvSMMu)** - _Links to California labor market indicators (employment, wages, etc) by county._
+
 * **[U.S. Census Bureau - Public Use Microdata Sample (PUMS)](https://bit.ly/2fPgugd)** - _Samples of actual responses to the American Community Survey. (Note: Datasets are relatively large.)_
 
 * **[U.S. Department of Housing and Urban Development](https://bit.ly/2EiEej1)** - _GIS data collected by HUD relating to poverty and housing across the U.S._
@@ -103,6 +105,8 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
 * **Housing and Shelter**
   * [90 Day Emergency Shelter Wait List](http://bit.ly/2FORuhM)
   * [Affordable Housing Pipeline](http://bit.ly/2oFt2rR)
+  * [Annual Allowable Rent Increase for Units Under Rent Control](https://bit.ly/2H2sren)
+  * [Buyout Agreements](https://bit.ly/2uRKCOM)
   * [Eviction Notices](https://bit.ly/2uUnBec)
   * [Petitions to the Rent Board](https://bit.ly/2H4amMI)
   * [Regression data for Inclusionary Housing Simulation Model](http://bit.ly/2Fcyfld)
@@ -135,6 +139,7 @@ _San Jose's open data resources are hosted on its [city government website](http
   * [Affordable Housing - Senior Housing Units](http://bit.ly/2oRed5s)
   * [Median Home Prices](http://bit.ly/2D9bdGh)
   * [Monthly Apartment Rents](http://bit.ly/2Fi2zLr)
+  * [Quarterly Apartment Vacancy Rates](https://bit.ly/2H8GJKg)
   * [Quarterly Average Apartment Rent](http://bit.ly/2FpUKPQ)
 
 
