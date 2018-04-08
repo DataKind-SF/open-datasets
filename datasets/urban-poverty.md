@@ -103,7 +103,10 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
 * **Housing and Shelter**
   * [90 Day Emergency Shelter Wait List](http://bit.ly/2FORuhM)
   * [Affordable Housing Pipeline](http://bit.ly/2oFt2rR)
+  * [Eviction Notices](https://bit.ly/2uUnBec)
+  * [Petitions to the Rent Board](https://bit.ly/2H4amMI)
   * [Regression data for Inclusionary Housing Simulation Model](http://bit.ly/2Fcyfld)
+  * [Requests for Information Regarding Protected Status Related to Owner Move-In Evictions](https://bit.ly/2EtXmL5)
   * [Housing Inventory Data 2014](http://bit.ly/2oNDay7), [2013](http://bit.ly/2oKExyv), [2012](http://bit.ly/2CWNybM), [2011](http://bit.ly/2oNKVUy)
 
 
