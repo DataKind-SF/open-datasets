@@ -63,7 +63,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 
 #### Housing and Shelter
 * [American Community Survey - Housing](http://bit.ly/2F9j8sF)
-* [Eviction Lab at Princeton University](https://bit.ly/2K4XVyX) - _Housing eviction data across the U.S. (Note: Email required to download datasets.)_
+* [Eviction Lab at Princeton University](https://bit.ly/2qwx6vz) - _Housing eviction data across the U.S. (Note: Email required to download datasets.)_
 * [Home Mortgage Disclosure Act](http://bit.ly/2oM5GQA) - _Public loan data reported by lending institutions._
 * [U.S. Dept of Housing and Urban Development - Fair Market Rents](https://bit.ly/2GzyhQX)
 * [U.S. Dept of Housing and Urban Development - Location Affordabiity Index v1.0](https://bit.ly/2Gzo470), [v2.0](https://bit.ly/2GA8LyM)
