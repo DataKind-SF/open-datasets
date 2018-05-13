@@ -67,7 +67,7 @@ This repository is maintained by the Core Team at [DataKind San Francisco](http:
 * [Home Mortgage Disclosure Act](http://bit.ly/2oM5GQA) - _Public loan data reported by lending institutions._
 * [U.S. Dept of Housing and Urban Development - Fair Market Rents](https://bit.ly/2GzyhQX)
 * [U.S. Dept of Housing and Urban Development - Location Affordabiity Index v1.0](https://bit.ly/2Gzo470), [v2.0](https://bit.ly/2GA8LyM)
-* [U.S. Dept of Housing and Urban Development - PIT and HIT Data Since 2017](https://bit.ly/1PKk3iK) - _Point-in-Time (PIT) estimates of homelessness and Housing Inventory Count (HIC)._
+* [U.S. Dept of Housing and Urban Development - PIT and HIT Data Since 2007](https://bit.ly/1PKk3iK) - _Point-in-Time (PIT) estimates of homelessness and Housing Inventory Count (HIC)._
 * [U.S. Dept of Housing and Urban Development - Public Housing Buildings](https://bit.ly/2uS2Z6z)
 
 #### Weather
