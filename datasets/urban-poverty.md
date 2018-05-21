@@ -112,9 +112,12 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
   * [Eviction Notices](https://bit.ly/2uUnBec)
   * [Mayor's Office of Housing and Community Development Affordable Rental Portfolio](https://bit.ly/2IdQS5P)
   * [Mayor's Office of Housing and Community Development Grants and Loans](https://bit.ly/2jWfztb)
+  * [Mayor's Office of Housing and Community Development Lead Mediation Grant Program](https://bit.ly/2rXkq0A)
+  * [Mayor's Office of Housing and Community Development Single Family Remediation and Rehabilitation Loans](https://bit.ly/2IB7dlk)
   * [Petitions to the Rent Board](https://bit.ly/2H4amMI)
   * [Regression data for Inclusionary Housing Simulation Model](http://bit.ly/2Fcyfld)
   * [Requests for Information Regarding Protected Status Related to Owner Move-In Evictions](https://bit.ly/2EtXmL5)
+  * [Residential Projects with Inclusionary Requirements](https://bit.ly/2IRgyJ0)
   * [Housing Inventory 2016](https://bit.ly/2IDpqli), [2015](https://bit.ly/2Gbzlcz), [2014](http://bit.ly/2oNDay7), [2013](http://bit.ly/2oKExyv), [2012](http://bit.ly/2CWNybM), [2011](http://bit.ly/2oNKVUy)
 
 
@@ -135,6 +138,7 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
   * [311 Call Metrics by Month](http://bit.ly/2I3iI5c)
   * [311 Cases by Channel](http://bit.ly/2F9QCav)
   * [Police Department Calls for Service](https://bit.ly/2wAUkWM)
+  * [SF311 Prior Case Data Structure](https://bit.ly/2rU36JU)
 
 #### San Jose CA
 _San Jose's open data resources are hosted on its [city government website](https://data.sanjoseca.gov//home)._
