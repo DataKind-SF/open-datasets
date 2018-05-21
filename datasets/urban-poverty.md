@@ -110,6 +110,7 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
   * [Annual Allowable Rent Increase for Units Under Rent Control](https://bit.ly/2H2sren)
   * [Buyout Agreements](https://bit.ly/2uRKCOM)
   * [Eviction Notices](https://bit.ly/2uUnBec)
+  * [Housing Inventory 2016](https://bit.ly/2IDpqli), [2015](https://bit.ly/2Gbzlcz), [2014](http://bit.ly/2oNDay7), [2013](http://bit.ly/2oKExyv), [2012](http://bit.ly/2CWNybM), [2011](http://bit.ly/2oNKVUy)
   * [Mayor's Office of Housing and Community Development Affordable Rental Portfolio](https://bit.ly/2IdQS5P)
   * [Mayor's Office of Housing and Community Development Grants and Loans](https://bit.ly/2jWfztb)
   * [Mayor's Office of Housing and Community Development Lead Mediation Grant Program](https://bit.ly/2rXkq0A)
@@ -118,8 +119,7 @@ _San Francisco's official platform for disseminating open data is [DataSF](https
   * [Regression data for Inclusionary Housing Simulation Model](http://bit.ly/2Fcyfld)
   * [Requests for Information Regarding Protected Status Related to Owner Move-In Evictions](https://bit.ly/2EtXmL5)
   * [Residential Projects with Inclusionary Requirements](https://bit.ly/2IRgyJ0)
-  * [Housing Inventory 2016](https://bit.ly/2IDpqli), [2015](https://bit.ly/2Gbzlcz), [2014](http://bit.ly/2oNDay7), [2013](http://bit.ly/2oKExyv), [2012](http://bit.ly/2CWNybM), [2011](http://bit.ly/2oNKVUy)
-
+  * [SF Development Pipeline 2017 Q1](https://bit.ly/2rW6sNb), [Q2](https://bit.ly/2IzA7q2), [Q3](https://bit.ly/2IEwWJp), [Q4](https://bit.ly/2GBb9R9); [2016 Q1](https://bit.ly/2rVCAQc), [Q2](https://bit.ly/2GEot7y), [Q3](https://bit.ly/2rXNsxX), [Q4](https://bit.ly/2x0y7Sg); [2015 Q1](https://bit.ly/2ICYROg), [Q2](https://bit.ly/2rXNIwV), [Q3](https://bit.ly/2GAlPzE), [Q4](https://bit.ly/2wXtacW)
 
 * **Parks**
   * [Recreation & Park Department Park Info Dataset](http://bit.ly/2t9PhuU)
